@@ -27,6 +27,7 @@ These rules are GoLocke-specific
 - Legendary Pokémon may only be swapped in for other legendary Pokémon.
   - (optional) "legendary" may loosely refer to legendary and mythical Pokémon
   - (optional) no legendary/mythical Pokémon may be swapped in
+- (optional) Pokémon evolutionary families that have already been swapped in are inelgible
 
 ## Feel free to dd your own rules into the mix
 - These rules are suggestions. Feel free to add your own 😁
