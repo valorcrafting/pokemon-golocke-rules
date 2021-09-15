@@ -1,7 +1,7 @@
 # GoLocke Rules
 
 ## Important rule
-While there's no need to stictly follow this ruleset, list the rules you plan to use before beginning your GoLocke. Don't force people to make assumptions on your ruleset! If you must, you may remove (not add or re-implement) rules at a later point.
+While there's no need to stictly follow this ruleset, list the rules you plan to use before beginning your GoLocke. Don't force people to make assumptions on your ruleset! If you must, you may remove (not add or re-implement) restrictions at a later point.
 
 ## Rules inherited from the standard Nuzlocke
 These rules are based on the standard Nuzlocke challenge.
@@ -23,11 +23,11 @@ These rules are GoLocke-specific
 - When swapping a Pokémon out, use a random number generator to select which eligible Pokémon to swap in from a search
 - Pokémon that cannot be transferred to the desired game (via limited Pokédex, being Shadow Pokémon, etc.) aren't eligible
 - Pokémon must be low enough level to obey you in the main game to be eligible 
-  - example: No Lv. 40 Pokémon may be used if only Pokémon up to level 10 will obey if received from a trade
+  - example: No Lv. 40 Pokémon may be used if only Pokémon up to level 10 will obey if received from a trade. Pokémon up to level 10 may always be transferred.
 - Legendary Pokémon may only be swapped in for other legendary Pokémon.
   - (optional) "legendary" may loosely refer to legendary and mythical Pokémon
   - (optional) no legendary/mythical Pokémon may be swapped in
 - (optional) Pokémon evolutionary families that have already been swapped in are inelgible
 
-## Feel free to dd your own rules into the mix
+## Feel free to add your own rules into the mix
 - These rules are suggestions. Feel free to add your own 😁
